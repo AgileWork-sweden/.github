@@ -15,7 +15,7 @@ Vi gillar att hålla saker enkla och smarta. Med minimal overhead och maximalt f
 ## 💬 Prata med oss!
 Behöver du hjälp med ett projekt eller är du nyfiken på att samarbeta? Tveka inte att höra av dig – vi älskar att snacka teknik och dela med oss av våra erfarenheter. Kolla gärna in våra projekt och bidra om du känner för det! 🙌
 
-AgileWork - Här för att göra teknik enkel och rolig, med ett leende på läpparna! 😄
+## AgileWork - Här för att göra teknik enkel och rolig, med ett leende på läpparna! 😄
 
 <!--
 
